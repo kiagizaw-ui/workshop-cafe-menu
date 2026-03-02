@@ -68,18 +68,18 @@ h1, h2 {
 /* FOOTER */
 
 footer {
-  font-size: 14px;
+  font-size: 15px;
 }
 
 address {
-  font-style: normal;
+  font-style: bold;
 }
 
 .address {
-  margin-bottom: 5px;
+  margin-bottom: 6px;
 }
 a {
-  color: black;
+  color: blue;
 }
 
 a:visited {
@@ -93,6 +93,7 @@ a:hover {
 a:active {
   color: brown;
 }
+
 
 
 
